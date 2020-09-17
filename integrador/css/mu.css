@@ -1,0 +1,18 @@
+#register{
+    display: block; color:white; 
+    width: 100%; 
+    text-align: 
+    center; 
+    height: 80px; 
+    background-color: orangered; 
+    padding-top: 25px;
+    font-weight: bold;
+
+}
+
+#register:hover{
+    transition: 1.5;
+    text-decoration: none;
+    background-color: rgb(204, 54, 0);
+    
+}
